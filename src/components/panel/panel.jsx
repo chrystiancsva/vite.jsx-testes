@@ -17,7 +17,7 @@ const Panel = () => {
 
     return (
         <>
-            <div id='center' className="panel" >
+            <div id='center' className="panel">
                 <h1 style={{ cursor: 'pointer' }} onClick={alternarTexto}>{title}</h1>
             </div>
         </>
